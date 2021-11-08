@@ -1,0 +1,57 @@
+.header-logo{
+  padding: 5px;
+  width: 270px;
+}
+
+.footer-logo{
+  padding: 5px;
+  width: 300px;
+}
+
+.founder {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+
+.founder:hover {
+  opacity: 0.9;
+}
+
+.founder-aoubt-text{
+    padding: 5px;
+    margin-top: 20px;
+    color: black;
+    font: italic;
+}
+
+.quote-img {
+  opacity: 0.7;
+  float: center;
+}
+
+.about-img {
+  opacity: 0.8;
+}
+
+.file-upload {
+  background-color: rgb(240, 209, 30); 
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 12px;
+}
+
+.file[type="file"]{
+  display: none;
+}
+.file-upload:hover {
+  background-color:rgba(201, 172, 5, 0.872);
+}
+.media:hover {
+  background-color:rgb(235, 234, 221);
+  border-radius: 5px;
+}
